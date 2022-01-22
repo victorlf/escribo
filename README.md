@@ -10,5 +10,8 @@ Receber um número inteiro e positivo e retornar o somatório de todos os valore
 
 Para usar deve-se ter o [Dart SDK](https://dart.dev/get-dart) instalado.
 
-No terminal/CMD, rode o comando `dart escribo.dart`e insira o número, como é indicado pela aplicação. Caso nada seja inserido ou seja fornecido um valor não válido, o programa avisará e continuará a pedir um valor válido.
+No terminal/CMD, rode o comando `dart escribo.dart` e insira o número, como é indicado pela aplicação, e click na tecla `enter`. O resultado do somatório é mostrado logo em seguida. Caso nada seja inserido ou seja fornecido um valor não válido, o programa avisará e continuará a pedir um valor válido. 
+
+Os valores não válidos são: vazio, qualquer texto que não seja apenas um número, números não inteiros e números negativos.
+
 
